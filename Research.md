@@ -6,7 +6,7 @@ permalink: /Research/
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mattis nulla eu cursus. Fusce finibus, orci sit amet tincidunt fermentum, risus ante pharetra nisi, eget tempus tellus tellus ut est. Nunc tempus cursus arcu mattis ultricies. Cras volutpat purus et lectus facilisis tempor. Suspendisse at lorem feugiat, feugiat massa vel, scelerisque dolor. Proin justo nisl, mattis eu sapien in, efficitur fringilla nulla. Phasellus placerat, lacus in venenatis tristique, risus dolor eleifend felis, vitae finibus augue nibh ut libero. Morbi sit amet tincidunt lorem.
 
-{% include image.html url="/images/Doraemon.jpg" caption="Argentine citizens rally in April 1982 at May Square in Buenos Aires, demonstrating support for their government's recent invasion of the British-held Falkland Islands. (Panta Astiazaran, AFP, Getty Images)" width=400 align="right" %}
+{% include image.html url="/images/timg.gif" caption="Argentine citizens rally in April 1982 at May Square in Buenos Aires, demonstrating support for their government's recent invasion of the British-held Falkland Islands. (Panta Astiazaran, AFP, Getty Images)" width=400 align="right" %}
 
 My research focuses on international conflict, particularly over the distribution of territory. I examine the effect these territorial issues have on domestic politics, with a focus at the level of the individual citizen. Here, you can find materials relevant to my published research and research in progress.
 
