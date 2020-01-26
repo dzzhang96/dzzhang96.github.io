@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-Tell us about your blog. Hopefully it's cool.
+Still Brewing...<img src="/images/Doraemon-6.gif" width= "5%" class="align-left" alt="">
 
 <ul class="listing">
 {% for post in site.posts %}
