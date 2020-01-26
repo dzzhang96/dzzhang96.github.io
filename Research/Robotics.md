@@ -4,12 +4,68 @@ title: Robotics
 permalink: /Research/Robotics/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mattis nulla eu cursus. Fusce finibus, orci sit amet tincidunt fermentum, risus ante pharetra nisi, eget tempus tellus tellus ut est. Nunc tempus cursus arcu mattis ultricies. Cras volutpat purus et lectus facilisis tempor. Suspendisse at lorem feugiat, feugiat massa vel, scelerisque dolor. Proin justo nisl, mattis eu sapien in, efficitur fringilla nulla. Phasellus placerat, lacus in venenatis tristique, risus dolor eleifend felis, vitae finibus augue nibh ut libero. Morbi sit amet tincidunt lorem.
+### **Biomechanical Analysis of Knee-Joint Prosthesis**
 
-Sed in egestas enim. Cras dapibus leo ligula, ut ultricies eros imperdiet sed. Morbi urna neque, suscipit sit amet fermentum ac, vehicula tempor felis. Quisque sed velit nisi. Aenean ullamcorper, purus a vehicula pretium, diam sem convallis sem, vel accumsan augue tortor in nibh. Ut ultrices hendrerit metus id suscipit. Vivamus mattis neque felis. Nullam vulputate augue id dolor consectetur, in commodo tortor efficitur. Nunc aliquet magna nibh, ut pretium turpis ultricies vel.
+03/2018-07/2019
 
-Fusce non eleifend quam. In leo quam, vestibulum vel vulputate a, hendrerit non nibh. Aliquam gravida commodo pretium. Morbi at ligula sed turpis sollicitudin fringilla et vel ante. Maecenas urna arcu, tempor sed neque vel, tempus consequat nisi. Quisque ac arcu ac lorem auctor egestas. Aliquam finibus volutpat tortor, a pellentesque lacus. Maecenas ullamcorper nisi non turpis tincidunt, ut sollicitudin arcu tempus. Suspendisse tristique nulla a porta ultrices. Vivamus sit amet nunc sagittis, efficitur massa ut, posuere quam. Donec sit amet posuere magna, in ullamcorper arcu. Duis id est blandit, bibendum metus at, interdum mi. Vestibulum et dui tellus. Phasellus laoreet enim id dapibus suscipit. Nam convallis risus ac justo tristique convallis. Cras et varius mauris.
+*Final Year Project, Orthotek Lab, Supervisor: Dr. Zikai Hua*
 
-Nullam libero nunc, rutrum vitae tellus ut, pretium sollicitudin sapien. In auctor ipsum sed orci aliquam, eget malesuada velit auctor. Nulla vel maximus ligula, vel molestie odio. Vivamus ac lorem quis libero dictum blandit. Fusce tincidunt justo quis lorem sollicitudin, sed rhoncus nibh facilisis. Morbi vitae congue nunc. Praesent a enim rhoncus, malesuada urna ac, accumsan ex. Fusce ornare porta ipsum id iaculis. Phasellus consectetur nisl vitae est pretium, at ultrices mauris placerat. Duis pellentesque mauris sapien, sed tristique ante auctor vel. Vivamus at sodales metus, eget malesuada eros.
+- Utilized an ABB IRB6700 robotic arm to simulate physiological loading conditions and to perform kinematic (normal walking) test on a human knee-joint prosthesis.
 
-Nunc quis venenatis nunc. Nunc nec libero non quam suscipit placerat. Pellentesque lobortis sagittis arcu at euismod. Phasellus odio nisl, mattis sed sagittis semper, aliquet id sem. Quisque iaculis nisl urna, ac accumsan elit commodo vel. Proin sagittis eleifend sollicitudin. Sed libero lorem, tempus eget turpis id, aliquet commodo augue. Proin diam dolor, rutrum et magna at, semper rutrum sapien.
+- Planned robot path according to anterior-posterior translation, medial-lateral rotation, flexion-extension rotation of knee-joint in MATLAB Robotic Toolbox and programmed in RobotStudio.
+
+- Controlled and detected physiological loading by using a multidimensional force sensor, Beckhoff embedded PC, and secondary developed software based on TwinCat.
+
+- Designed new fixtures, including a flange, an adapter flange, trapezoidal
+  grooves, and two barrels for PMMA solidification for linking knee-joint prosthesis with robotic arm.
+
+- Established a dynamic optical measuring system to observe knee-joint kinematics in gait after collecting data from ARAMIS, GOM by sticking markers on the surface of prosthesis.
+
+### **Design of A Medical Rehabilitation Robotic Arm**
+
+01/2018-06/2018
+
+{% include image.html url="/images/RoboArm.jpg" caption="4 DOF robotic arm equipped with Leap Motion" width=345 align="right" %}
+
+*Third Year Project, First Prize in Chinese Service Robot Competition (Innovative design of rehabilitation robot) 2018, Supervisor: Dr. Bin He*
+
+- Designed a prototype of four DOF robotic arm, which can predict patient’s arm movement and help do rehabilitation exercises.
+
+- Developed an integrated system of a robotic arm, a multiple sensor, a windows forms application programmed in c#, a servos’ control system in Arduino where messages are detected and exchanged through the serial communication ports.
+
+- Deduced an empirical formula of the multiple sensor - Leap Motion to control four servos with detected coordinate points after many attempts.
+
+- Set a parameter to regulate the sensitivity of the robotic arm for different patients.
+
+- Simulated and conducted force analysis in Ansys under various situations.
+
+### **A Novel FPV Racing Drone**
+
+{% include image.html url="/images/FPV.jpg" caption="The racing drone we made." width=345 align="right" %}
+
+05/2018-06/2018
+
+*One of Two Team members, First Prize in China Aerial Robotics Competition 2018, Supervisor: Dr. Di Wang*
+
+- Built an FPV with 4 brushless motors (4800kv) with 3-leaf propellers on each, a carbon
+  fiber frame, 4 in 1 ESCs, F3 flight controller, and the altimeter, barometer, video transmitter, etc. on boards.
+
+- Tuned the PID to make the drone both steady and agile for the match.
+
+- 3D-printed a knife rest for a ceramic blade to penetrate several balloons on the game day.
+
+### **Programming and Design of a PCB Layout of an AGV**
+
+11/2017-03/2018
+
+{% include image.html url="/images/AGV.jpg" caption="AGV" width=345 align="right" %}
+
+*Team leader, Third Prize in China Robot Match (Travel and Security) 2018, Supervisor: Dr. Di Wang*
+
+- Programmed the vehicle for passing through different kinds of terrain and make corresponding actions (driven by four servos) after scanning QR codes.
+
+- Designed and soldered an expansion PCB to be set on the STM32 for improving the
+  reliability instead of connecting different parts with Dupont cables.
+
+- Added an automatic steering system by installing 16 gray-scale sensors, 4 ultrasonic
+  sensors and optimized the algorithm to have a quick response.

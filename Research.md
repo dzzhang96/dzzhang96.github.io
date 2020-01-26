@@ -4,12 +4,18 @@ title: Research
 permalink: /Research/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mattis nulla eu cursus. Fusce finibus, orci sit amet tincidunt fermentum, risus ante pharetra nisi, eget tempus tellus tellus ut est. Nunc tempus cursus arcu mattis ultricies. Cras volutpat purus et lectus facilisis tempor. Suspendisse at lorem feugiat, feugiat massa vel, scelerisque dolor. Proin justo nisl, mattis eu sapien in, efficitur fringilla nulla. Phasellus placerat, lacus in venenatis tristique, risus dolor eleifend felis, vitae finibus augue nibh ut libero. Morbi sit amet tincidunt lorem.
+My research focuses on both medical image computation and robotics. 
 
-{% include image.html url="/images/timg.gif" caption="Argentine citizens rally in April 1982 at May Square in Buenos Aires, demonstrating support for their government's recent invasion of the British-held Falkland Islands. (Panta Astiazaran, AFP, Getty Images)" width=400 align="right" %}
+Medical image computation is my main theme since I entered Shanghai Jiaotong University as a master student last year. Around it, I acquired skills of image visualization (VTK), medical image processing (ITK) and delved into deep learning. I also progressed my coding skills through programming practical softwares based on C++ and QT.
 
-My research focuses on international conflict, particularly over the distribution of territory. I examine the effect these territorial issues have on domestic politics, with a focus at the level of the individual citizen. Here, you can find materials relevant to my published research and research in progress.
+As to robotics, it is with strong enthusiasm that I have participated in many related activities during undergraduate study. I have extended my interests to various types of robots, including Rethink Baxter (a cobot), ABB industrial robots, UAV, AGV and my own 3d-printed rehabilitation robotic arm. As a result, I developed my abilities not only in  mechanical design but also in controls and PCB designing as well. 
 
-I also provide titles for some working papers and works in progress below. I provide full links for these papers when I believe they are ready for peer review. Feel free to contact me if you are interested in some of these projects. [My CV](http://svmiller.com/cv/) contains more information about where some of these projects are in the peer review process.
+Here you can find projects relevant to my ongoing and previous research in detail.
 
-I also offer [a three-page research statement](/docs/svm-research-statement.pdf) that summarizes and contextualizes my different research agendas.
+- [Medical Image Computation](https://dzzhang96.github.io/Research/Medical%20Image%20Computation/) 
+
+- [Robotics](https://dzzhang96.github.io/Research/Robotics/)
+
+And I also provide my [CV](https://dzzhang96.github.io/cv/) which summarizes all these projects by time.
+
+
