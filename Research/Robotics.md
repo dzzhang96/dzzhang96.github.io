@@ -4,15 +4,19 @@ title: Robotics
 permalink: /Research/Robotics/
 ---
 
+{% include image.html url="/images/OrthotekLab2.jpg" caption="a knee joint controlled by ABB IRB6700 robotic arm" width=345 align="right" %}
+
 ### **Biomechanical Analysis of Knee-Joint Prosthesis**
 
-03/2018-07/2019
+12/2018-07/2019
 
 *Final Year Project, Orthotek Lab, Supervisor: Dr. Zikai Hua*
 
 - Utilized an ABB IRB6700 robotic arm to simulate physiological loading conditions and to perform kinematic (normal walking) test on a human knee-joint prosthesis.
 
 - Planned robot path according to anterior-posterior translation, medial-lateral rotation, flexion-extension rotation of knee-joint in MATLAB Robotic Toolbox and programmed in RobotStudio.
+
+{% include image.html url="/images/OrthotekLab3.jpg" caption="the optical measuring system" width=345 align="right" %}
 
 - Controlled and detected physiological loading by using a multidimensional force sensor, Beckhoff embedded PC, and secondary developed software based on TwinCat.
 
@@ -21,17 +25,21 @@ permalink: /Research/Robotics/
 
 - Established a dynamic optical measuring system to observe knee-joint kinematics in gait after collecting data from ARAMIS, GOM by sticking markers on the surface of prosthesis.
 
+
+
 ### **Design of A Medical Rehabilitation Robotic Arm**
 
-01/2018-06/2018
-
 {% include image.html url="/images/RoboArm.jpg" caption="4 DOF robotic arm equipped with Leap Motion" width=345 align="right" %}
+
+01/2018-06/2018
 
 *Third Year Project, First Prize in Chinese Service Robot Competition (Innovative design of rehabilitation robot) 2018, Supervisor: Dr. Bin He*
 
 - Designed a prototype of four DOF robotic arm, which can predict patient’s arm movement and help do rehabilitation exercises.
 
 - Developed an integrated system of a robotic arm, a multiple sensor, a windows forms application programmed in c#, a servos’ control system in Arduino where messages are detected and exchanged through the serial communication ports.
+
+{% include image.html url="/images/RoboArm.gif" caption="a demo" width=345 align="right" %}
 
 - Deduced an empirical formula of the multiple sensor - Leap Motion to control four servos with detected coordinate points after many attempts.
 
@@ -41,7 +49,7 @@ permalink: /Research/Robotics/
 
 ### **A Novel FPV Racing Drone**
 
-{% include image.html url="/images/FPV.jpg" caption="The racing drone we made." width=345 align="right" %}
+{% include image.html url="/images/FPV.jpg" caption="the racing drone we made" width=345 align="right" %}
 
 05/2018-06/2018
 
@@ -56,9 +64,9 @@ permalink: /Research/Robotics/
 
 ### **Programming and Design of a PCB Layout of an AGV**
 
-11/2017-03/2018
+{% include image.html url="/images/AGV.jpg" caption="the PCB I designed for AGV which was messed up with Dupont cables" width=345 align="right" %}
 
-{% include image.html url="/images/AGV.jpg" caption="AGV" width=345 align="right" %}
+11/2017-03/2018
 
 *Team leader, Third Prize in China Robot Match (Travel and Security) 2018, Supervisor: Dr. Di Wang*
 
