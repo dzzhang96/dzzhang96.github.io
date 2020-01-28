@@ -1,0 +1,18 @@
+- title: "About"
+  href: "/about/"
+
+- title: "Blog"
+  href: "/blog/"
+  
+- title: "Research"
+  href: "/Research/"
+  subcategories:
+    - subtitle: "Medical Image Computation"
+      subhref: "/Research/Medical Image Computation/"
+    - subtitle: "Robotics"
+      subhref: "/Research/Robotics/"
+
+- title: "CV"
+  href: "/cv/"
+
+

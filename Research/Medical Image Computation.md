@@ -4,17 +4,21 @@ title: Medical Image Computation
 permalink: /Research/Medical Image Computation/
 ---
 
-### **Orbital Rim Registration Software**
+{% include image.html url="/images/registration.gif" caption="demo" width=345 align="right" %}
+
+### **[[Code](https://github.com/dzzhang96/Points-Registration-ICP)] Orbital Rim Registration Software V1.0**
 
 01/2020-present
 
 *Master Projects, Supervisor: Dr. Xiaojun Chen*
 
-Developed a software for doctors to select points for orbital rim registration, using QT and VTK.
+- A software for point clouds registration based on VTK7.0 and Qt5.0. (you can cmake it😀)The basic algorithm is ICP, the number of iterations is set to 50.
 
-3D reconstructed several skull CT-Scan data from DICOM.
+- The upper left window renders the stable STL while the upper right window can be input several STLs for transformation.
 
-Ameliorated the ICP algorithm to surface registration.
+- You can either registrate by right clicking (to get points) on STL or registrate directly by point clouds.
+
+You can find the code [here](https://github.com/dzzhang96/Points-Registration-ICP).
 
 ### **[[Code](https://github.com/dzzhang96/tf-predict-cpp)] Medical Image Segmentation using Tensorflow C++ API**
 

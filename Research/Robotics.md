@@ -25,8 +25,6 @@ permalink: /Research/Robotics/
 
 - Established a dynamic optical measuring system to observe knee-joint kinematics in gait after collecting data from ARAMIS, GOM by sticking markers on the surface of prosthesis.
 
-
-
 ### **Design of A Medical Rehabilitation Robotic Arm**
 
 {% include image.html url="/images/RoboArm.jpg" caption="4 DOF robotic arm equipped with Leap Motion" width=345 align="right" %}
@@ -39,7 +37,7 @@ permalink: /Research/Robotics/
 
 - Developed an integrated system of a robotic arm, a multiple sensor, a windows forms application programmed in c#, a servos’ control system in Arduino where messages are detected and exchanged through the serial communication ports.
 
-{% include image.html url="/images/RoboArm.gif" caption="a demo" width=345 align="right" %}
+{% include image.html url="/images/RoboArm.gif" caption="demo" width=345 align="right" %}
 
 - Deduced an empirical formula of the multiple sensor - Leap Motion to control four servos with detected coordinate points after many attempts.
 
