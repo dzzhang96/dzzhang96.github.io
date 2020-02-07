@@ -10,7 +10,7 @@ permalink: /Research/Robotics/
 
 12/2018-07/2019
 
-*Final Year Project, Orthotek Lab, Supervisor: Dr. Zikai Hua*
+*Final Year Project, [Orthotek Lab](http://www.orthotek-lab.org/?_l=en), Supervisor: Dr. Zikai Hua*
 
 - Utilized an ABB IRB6700 robotic arm to simulate physiological loading conditions and to perform kinematic (normal walking) test on a human knee-joint prosthesis.
 
