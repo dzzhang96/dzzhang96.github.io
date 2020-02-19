@@ -4,7 +4,7 @@ title: Research
 permalink: /Research/
 ---
 
-My research focuses on both medical image computation and robotics. 
+My research focuses on both medical image analysis and robotics. 
 
 Medical image computation is my main theme since I entered Shanghai Jiaotong University as a master student last year. Around it, I acquired skills of image visualization (VTK), medical image processing (ITK) and delved into deep learning. I also progressed my coding skills through programming practical softwares based on C++ and QT.
 
@@ -17,5 +17,3 @@ Here you can find projects relevant to my ongoing and previous research in detai
 - [Robotics](https://dzzhang96.github.io/Research/Robotics/)
 
 And I also provide my [CV](https://dzzhang96.github.io/cv/) which summarizes all these projects by time.
-
-

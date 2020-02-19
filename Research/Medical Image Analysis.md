@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Medical Image Computation
-permalink: /Research/Medical Image Computation/
+title: Medical Image Analysis
+permalink: /Research/Medical Image Analysis/
 ---
 
 {% include image.html url="/images/registration.gif" caption="demo" width=345 align="right" %}
