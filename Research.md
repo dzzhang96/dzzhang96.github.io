@@ -12,7 +12,7 @@ As to robotics, it is with strong enthusiasm that I have participated in many re
 
 Here you can find projects relevant to my ongoing and previous research in detail.
 
-- [Medical Image Analysis](https://dzzhang96.github.io/Research/Medical%20Image%20Computation/) 
+- [Medical Image Analysis](https://dzzhang96.github.io/Research/Medical%20Image%20Analysis/) 
 
 - [Robotics](https://dzzhang96.github.io/Research/Robotics/)
 
