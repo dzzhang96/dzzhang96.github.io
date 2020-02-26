@@ -4,6 +4,10 @@ title: Robotics
 permalink: /Research/Robotics/
 ---
 
+As to robotics, it is with strong enthusiasm that I have participated in many related activities during undergraduate study, especially those in medical field. I have extended my interests to various types of robots, including my own 3d-printed rehabilitation robotic arm, Rethink Baxter (a cobot), ABB industrial robots, UAV and AGV. As a result, I developed my abilities not only in mechanical design but also in controls and even PCB designing.
+
+&nbsp;
+
 {% include image.html url="/images/OrthotekLab2.jpg" caption="a knee joint controlled by ABB IRB6700 robotic arm" width=345 align="right" %}
 
 ### **Biomechanical Analysis of Knee-Joint Prosthesis**
@@ -25,6 +29,8 @@ permalink: /Research/Robotics/
 
 - Established a dynamic optical measuring system to observe knee-joint kinematics in gait after collecting data from ARAMIS, GOM by sticking markers on the surface of prosthesis.
 
+&nbsp;
+
 ### **Design of A Medical Rehabilitation Robotic Arm**
 
 {% include image.html url="/images/RoboArm.jpg" caption="4 DOF robotic arm equipped with Leap Motion" width=345 align="right" %}
@@ -45,6 +51,24 @@ permalink: /Research/Robotics/
 
 - Simulated and conducted force analysis in Ansys under various situations.
 
+&nbsp;
+
+### **Application of Baxter from Rethink Robotics**
+
+{% include image.html url="/images/baxter-optimized.gif" caption="Baxter Oline Upper Body Imitation" width="345" align="right" %}
+
+06/2018-08/2018
+
+*Research Assistant in The Visual Interactivity Group, Supervisor: Dr. Long Li*
+
+- Improved the response rate of Baxter when imitating human upper body motion in Moveit!, ROS.
+
+- Successfully guided Baxter to pick up a delicate wineglass and pour liquids into another bottle.
+
+- Designed a soft 2-finger end effector to grab objects of different shapes and texture.
+
+&nbsp;
+
 ### **A Novel FPV Racing Drone**
 
 {% include image.html url="/images/FPV.jpg" caption="the racing drone we made" width=345 align="right" %}
@@ -59,6 +83,8 @@ permalink: /Research/Robotics/
 - Tuned the PID to make the drone both steady and agile for the match.
 
 - 3D-printed a knife rest for a ceramic blade to penetrate several balloons on the game day.
+
+### &nbsp;
 
 ### **Programming and Design of a PCB Layout of an AGV**
 

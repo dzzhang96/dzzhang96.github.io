@@ -7,8 +7,8 @@
 - title: "Research"
   href: "/Research/"
   subcategories:
-    - subtitle: "Medical Image Computation"
-      subhref: "/Research/Medical Image Computation/"
+    - subtitle: "Medical Image Analysis"
+      subhref: "/Research/Medical Image Analysis/"
     - subtitle: "Robotics"
       subhref: "/Research/Robotics/"
 

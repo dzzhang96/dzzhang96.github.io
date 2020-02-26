@@ -4,6 +4,10 @@ title: Medical Image Analysis
 permalink: /Research/Medical Image Analysis/
 ---
 
+Medical image analysis is my main theme since I entered Shanghai Jiaotong University as a master student last year. Around it, I acquired skills of image visualization (VTK), medical image processing (ITK) and delved into Deep Learning. I also progressed my coding skills through programming practical softwares in C++ and QT.
+
+&nbsp;
+
 {% include image.html url="/images/registration.gif" caption="demo" width=345 align="right" %}
 
 ### **[[Code](https://github.com/dzzhang96/Points-Registration-ICP)] Orbital Rim Registration Software V1.0**
