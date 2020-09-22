@@ -1,11 +1,13 @@
 - title: "About"
   href: "/about/"
   
-- title: "Medical Image Analysis"
-  href: "/Research/Medical Image Analysis/"
-  
-- title: "Robotics"
-  href: "/Research/Robotics/"
+- title: "Research"
+  href: "/Research/"
+  subcategories:
+    - subtitle: "Robotics"
+      subhref: "/Research/Robotics/"
+    - subtitle: "Medical Image Computation"
+      subhref: "/Research/Medical Image Computation/"
 
 - title: "CV"
   href: "/cv/"
