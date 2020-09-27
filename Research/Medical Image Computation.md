@@ -4,7 +4,7 @@ title: Medical Image Computation
 permalink: /Research/Medical Image Computation/
 ---
 
-Medical image computation is my main theme as a master student at Shanghai Jiao Tong University last year. Around it, I acquired skills of image visualization (VTK), medical image processing (ITK) and delved into Deep Learning. I also improved my coding skills using C++ and QT.
+Medical image computation is my main theme as a master student at Shanghai Jiao Tong University last year. Around it, I acquired skills of OpenCV, image visualization (VTK), medical image processing (ITK) and delved into Deep Learning. I also improved my coding skills using C++ and QT.
 
 &nbsp;
 
