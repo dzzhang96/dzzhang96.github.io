@@ -28,7 +28,7 @@ You can find details [here](https://github.com/dzzhang96/Points-Registration-ICP
 
 09/2019-11/2019
 
-{% include image.html url="/images/tensor.jpg" caption="Segment the bone craft from maxillary sinus" width=365 align="right" %}
+{% include image.html url="/images/tensor.jpg" caption="Segment the bone graft from maxillary sinus" width=365 align="right" %}
 
 *Master Project, Supervisor: Dr. Xiaojun Chen*
 
