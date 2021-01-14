@@ -1,0 +1,10 @@
+1.
+颜色备份：#671414
+main.scss无法修改颜色，直接在_header.scss中修改$clemson_orange项
+备份_header.scss原始文件，以便于找到哪些$clemson_orange要修改
+
+2.
+在footer.html中加入了三个网页跟踪器
+
+3.
+在footer.html中屏蔽了中文浏览器的访问

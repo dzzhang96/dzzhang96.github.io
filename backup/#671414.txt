@@ -1,2 +1,0 @@
-main.scss无法修改颜色，直接在_header.scss中修改$clemson_orange项
-备份_header.scss原始文件，以便于找到哪些$clemson_orange要修改
