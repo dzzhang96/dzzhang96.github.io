@@ -8,6 +8,9 @@
       subhref: "/Research/Robotics/"
     - subtitle: "Medical Image Computation"
       subhref: "/Research/Medical Image Computation/"
+    - subtitle: "AR Surgical Navigation"
+      subhref: "/Research/AR Surgical Navigation/"
+
 
 - title: "CV"
   href: "/cv/"
