@@ -10,7 +10,7 @@ permalink: /Research/AR-based Surgical Navigation/
 
 09/2020-present
 
-*McGill University: Master Thesis Project, Supervisor: Dr. Mark Driscoll, Co-supervisor: Dr. Jorge Angeles*
+*McGill University: Master Thesis Project, Supervisor: [Dr. Mark Driscoll](https://www.mcgill.ca/mecheng/people/staff/mark-driscoll), Co-supervisor: [Dr. Jorge Angeles](https://www.mcgill.ca/mecheng/people/staff/jorgeangeles)*
 
 Developed an AR based surgical navigation system for high-quality visualization during spine surgery. Optimized the 3D reconstructed data from DICOM by using deep learning for automatic image segmentation.
 

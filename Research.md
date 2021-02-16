@@ -4,7 +4,9 @@ title: Research
 permalink: /Research/
 ---
 
-My research focuses on robotics and image processing. 
+My research focuses on augmented reality, medical image processing and robotics. 
+
+My work on AR-based surgical navigation system is targeted at high-quality visualization during spine surgery. This includes optimized 3D reconstructed data from DICOM by using deep learning for automatic image segmentation and caliberation between HoloLens and surgical tool tracking systems.
 
 Medical image analysis is my main theme during the time at Shanghai Jiaotong University as a master student last year. Around it, I acquired skills of OpenCV, image visualization (VTK), medical image processing (ITK) and delved into Deep Learning. I also progressed my coding skills using C++ and QT.
 
@@ -12,8 +14,10 @@ As to robotics, it is with strong enthusiasm that I have participated in many re
 
 Here you can find projects relevant to my ongoing and previous research in detail.
 
-- [Robotics](https://dzzhang96.github.io/Research/Robotics/)
+- [AR-based Surgical Navigation](https://dzzhang96.github.io/Research/AR-based%20Surgical%20Navigation/)
 
 - [Medical Image Computation](https://dzzhang96.github.io/Research/Medical%20Image%20Computation/)
+
+- [Robotics](https://dzzhang96.github.io/Research/Robotics/)
 
 And I also provide my [CV](https://dzzhang96.github.io/cv/) which summarizes all these projects by time.
