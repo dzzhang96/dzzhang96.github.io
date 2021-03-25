@@ -28,15 +28,15 @@ You can find details [here](https://github.com/dzzhang96/Points-Registration-ICP
 
 09/2019-11/2019
 
-{% include image.html url="/images/tensor.jpg" caption="Segment the bone graft from maxillary sinus" width=365 align="right" %}
+{% include image.html url="/images/vnet.jpg" caption="Mandible Segmentation" width=365 align="right" %}
 
 *Master Project, Supervisor: Dr. Xiaojun Chen*
 
 - Shortened calculation time for medical image computation software by integrating deep learning.
 
-- Compiled the Tensorflow C++ library and converted Python image segmentation programs to C++.
+- Compiled the Tensorflow C++ library and converted image segmentation programs from Python to C++.
 
-- Developed semi-automatic labeling algorithms to segment a bone graft using maxillary sinus for training models.
+- Developed automatic labeling algorithms based on U-net/V-net to segment mandible and bone graft in maxillary sinus.
 
 You can find the code [here](https://github.com/dzzhang96/tf-predict-cpp).
 
