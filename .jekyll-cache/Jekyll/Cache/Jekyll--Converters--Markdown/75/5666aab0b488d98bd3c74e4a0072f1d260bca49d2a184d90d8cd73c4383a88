@@ -1,4 +1,4 @@
-I"‹<p>Medical image computation is my main theme as a master student at Shanghai Jiao Tong University last year. Around it, I acquired skills of OpenCV, image visualization (VTK), medical image processing (ITK) and delved into Deep Learning. I also improved my coding skills using C++ and QT.</p>
+I"f<p>Medical image computation is my main theme as a master student at Shanghai Jiao Tong University last year. Around it, I acquired skills of OpenCV, image visualization (VTK), medical image processing (ITK) and delved into Deep Learning. I also improved my coding skills using C++ and QT.</p>
 
 <p>Â </p>
 
@@ -35,9 +35,9 @@
 
 <dl class="wp-caption alignright" style="max-width: 365px">
 
-<dt><a href=""><img class="" src="/images/tensor.jpg" alt="Segment the bone graft from maxillary sinus" /></a></dt>
+<dt><a href=""><img class="" src="/images/vnet.jpg" alt="Mandible Segmentation" /></a></dt>
 
-<dd>Segment the bone graft from maxillary sinus</dd>
+<dd>Mandible Segmentation</dd>
 </dl>
 
 <p><em>Master Project, Supervisor: Dr. Xiaojun Chen</em></p>
@@ -47,10 +47,10 @@
     <p>Shortened calculation time for medical image computation software by integrating deep learning.</p>
   </li>
   <li>
-    <p>Compiled the Tensorflow C++ library and converted Python image segmentation programs to C++.</p>
+    <p>Compiled the Tensorflow C++ library and converted image segmentation programs from Python to C++.</p>
   </li>
   <li>
-    <p>Developed semi-automatic labeling algorithms to segment a bone graft using maxillary sinus for training models.</p>
+    <p>Developed automatic labeling algorithms based on U-net/V-net to segment mandible and bone graft in maxillary sinus.</p>
   </li>
 </ul>
 

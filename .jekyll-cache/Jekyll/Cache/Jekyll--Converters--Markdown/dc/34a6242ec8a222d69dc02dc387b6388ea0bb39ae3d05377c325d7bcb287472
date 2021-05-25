@@ -1,4 +1,6 @@
-I"â<p>My research focuses on robotics and image processing.</p>
+I"·<p>My research focuses on augmented reality, medical image processing and robotics.</p>
+
+<p>My work on AR-based surgical navigation system is targeted at high-quality visualization during spine surgery. This includes optimized 3D reconstructed data from DICOM by using deep learning for automatic image segmentation and caliberation between HoloLens and surgical tool tracking systems.</p>
 
 <p>Medical image analysis is my main theme during the time at Shanghai Jiaotong University as a master student last year. Around it, I acquired skills of OpenCV, image visualization (VTK), medical image processing (ITK) and delved into Deep Learning. I also progressed my coding skills using C++ and QT.</p>
 
@@ -8,10 +10,13 @@
 
 <ul>
   <li>
-    <p><a href="https://dzzhang96.github.io/Research/Robotics/">Robotics</a></p>
+    <p><a href="https://dzzhang96.github.io/Research/AR-based%20Surgical%20Navigation/">AR-based Surgical Navigation</a></p>
   </li>
   <li>
     <p><a href="https://dzzhang96.github.io/Research/Medical%20Image%20Computation/">Medical Image Computation</a></p>
+  </li>
+  <li>
+    <p><a href="https://dzzhang96.github.io/Research/Robotics/">Robotics</a></p>
   </li>
 </ul>
 
