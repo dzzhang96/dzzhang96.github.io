@@ -6,7 +6,7 @@ permalink: /Research/
 
 My research focuses on augmented reality, medical image processing and robotics. 
 
-My work on AR-based surgical navigation system is targeted at high-quality visualization during spine surgery. This includes optimized 3D reconstructed data from DICOM by using deep learning for automatic image segmentation and caliberation between HoloLens and surgical tool tracking systems.
+My work on AR-based surgical navigation system is targeted at high-quality visualization during spine surgery. This includes optimized 3D reconstructed data from DICOM by using deep learning for automatic image segmentation and calibration between HoloLens and surgical tool tracking systems.
 
 Medical image analysis is my main theme during the time at Shanghai Jiaotong University as a master student last year. Around it, I acquired skills of OpenCV, image visualization (VTK), medical image processing (ITK) and delved into Deep Learning. I also progressed my coding skills using C++ and QT.
 
