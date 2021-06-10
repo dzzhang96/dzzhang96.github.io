@@ -4,13 +4,22 @@ title: Medical Image Computation
 permalink: /Research/Medical Image Computation/
 ---
 
-Medical image computation is my main theme as a master student at Shanghai Jiao Tong University last year. Around it, I acquired skills of OpenCV, image visualization (VTK), medical image processing (ITK) and delved into Deep Learning. I also improved my coding skills using C++ and QT.
+I gained most of my experience in medical image processing at Shanghai Jiaotong University as a graduate student from year 2019. I acquired skills of **OpenCV**, image visualization (**VTK**), medical image processing (**ITK**), software development (**Qt**) and then delved into **Deep Learning**. Concurrently, I progressed my coding skills using **C++** and **Python**.
+
+## Publications
+### Revising:
+Jiangchang Xu, **Dingzhong Zhang**, Chunliang Wang, Huifang Zhou, Yinwei Li, and Xiaojun Chen*. (2021). Automatic Segmentation of Orbital Wall from CT Images Using a Fully Convolutional Network Based on Thin Wall Region Supervision. Medical Physics.
+
+Jiangchang Xu, Jiannan Liu, **Dingzhong Zhang**, Zijie Zhou, Xiaoyi Jiang, Chenping Zhang, Xiaojun Chen*. (2021). Automatic Mandible Segmentation from CT Image Using 3D Fully Convolutional Neural Network Based on DenseASPP and Attention Gates. International Journal of Computer Assisted Radiology and Surgery.
+
+### Published:
+Afaque Memon, Dongyuan Li, Junlei Hu, Enpeng Wang, **Dingzhong Zhang**, Xiaojun Chen*. (2021). The Development of Computer‐aided Patient‐Specific Template Design Software for 3D printing in Cranio‐Maxillofacial Surgery. The International Journal of Medical Robotics and Computer Assisted Surgery. 17. 10.1002/rcs.2243. 
 
 &nbsp;
 
 {% include image.html url="/images/registration.gif" caption="Orbital Rim Registration Software V1.0" width=345 align="right" %}
 
-### **[[Code](https://github.com/dzzhang96/Points-Registration-ICP)] Orbital Rim Registration Software V1.0**
+### **[[Code](https://github.com/dzzhang96/Points-Registration-ICP)] Orbital Rim Registration Software V1.1**
 
 01/2020-06/2020
 

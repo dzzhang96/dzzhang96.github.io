@@ -4,7 +4,7 @@ title: Robotics
 permalink: /Research/Robotics/
 ---
 
-As to robotics, it is with strong enthusiasm that I have participated in many related activities since undergraduate study, especially those applications in biomechanics. I have extended my interests to various types of robots, including my own 3d-printed rehabilitation robotic arm, Rethink Baxter (a cobot), ABB industrial robots, UAV and AGV. As a result, I developed my abilities not only in mechanical design but also in controls and PCB designing as well.
+As to robotics, it is with strong enthusiasm that I have participated in many related activities during my undergraduate study. I have extended my interests to various types of robots, including my 3d-printed **rehabilitation robotic arm**, the **Rethink Baxter** (a cobot), **ABB industrial robots**, **UAV** and **AGV**. I developed my skills not only in controls mechanical design but also in **controls** and PCB designing as well. 
 
 &nbsp;
 
@@ -16,16 +16,15 @@ As to robotics, it is with strong enthusiasm that I have participated in many re
 
 *Final Year Project, [Orthotek Lab](http://www.orthotek-lab.org/?_l=en), Supervisor: Dr. Zikai Hua*
 
-- Utilized an ABB IRB6700 robotic arm to simulate physiological loading conditions and to perform kinematic (normal walking) test on a human knee-joint prosthesis.
+- Used an ABB IRB6700 robotic arm to simulate physiological loading conditions and to perform kinematic (normal walking) test on a human knee-joint prosthesis.
 
-- Planned robot path according to anterior-posterior translation, medial-lateral rotation, flexion-extension rotation of knee-joint in MATLAB Robotic Toolbox and programmed in RobotStudio.
+- Planned the robot path according to anterior-posterior translation, medial-lateral rotation, flexion-extension rotation of knee-joint in MATLAB Robotic Toolbox and programmed in RobotStudio.
 
 {% include image.html url="/images/OrthotekLab3.jpg" caption="the optical measuring system" width=345 align="right" %}
 
-- Controlled and detected physiological loading by using a multidimensional force sensor, Beckhoff embedded PC, and secondary developed software based on TwinCat.
+- Controlled and detected the physiological loading by using a multidimensional force sensor, Beckhoff embedded PC, and secondary developed software based on TwinCat.
 
-- Designed new fixtures, including a flange, an adapter flange, trapezoidal
-  grooves, and two barrels for PMMA solidification for linking knee-joint prosthesis with robotic arm.
+- Designed new fixtures, including a flange, an adapter flange, trapezoidal grooves, and two barrels for PMMA solidification for linking knee-joint prosthesis with robotic arm.
 
 - Established a dynamic optical measuring system to observe knee-joint kinematics in gait after collecting data from ARAMIS, GOM by sticking markers on the surface of prosthesis.
 
@@ -39,7 +38,7 @@ As to robotics, it is with strong enthusiasm that I have participated in many re
 
 *Third Year Project, First Prize in Chinese Service Robot Competition (Innovative design of rehabilitation robot) 2018, Supervisor: Dr. Bin He*
 
-- Designed a prototype of four DOF robotic arm, which can predict patient’s arm movement and help do rehabilitation exercises.
+- Designed a prototype of a four DOF robotic arm, which can predict patient’s arm movement and help do rehabilitation exercises.
 
 - Developed an integrated system of a robotic arm, a multiple sensor, a windows forms application programmed in c#, a servos’ control system in Arduino where messages are detected and exchanged through the serial communication ports.
 
