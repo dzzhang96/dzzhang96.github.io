@@ -27,7 +27,7 @@ This part includes the surgical routes planning and unifying the coordinate syst
 An interfaced software includes the function of calibration of Polaris NDI and shows the real-time surgical routes on CT images. The probe and passive 4-marker rigid body on the spine are used for Polaris NDI to track the position and orientation of the spine and surgical tools. 
 
 **Part C:**
-Accurate segmentation of the spine determines the quality of 3D reconstruction.
+Automatic segmentation of vertebra using deep learning and then 3D reconstruction.
 
 **Part D:**
 An UWP is deployed into HoloLens which receives only real-time data and does not get involved in the computation.
