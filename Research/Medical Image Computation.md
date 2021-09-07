@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Medical Image Computation
 permalink: /Research/Medical Image Computation/
@@ -7,6 +7,11 @@ permalink: /Research/Medical Image Computation/
 I gained most of my experience in medical image processing at Shanghai Jiaotong University as a graduate student from year 2019. I acquired skills of **OpenCV**, image visualization (**VTK**), medical image processing (**ITK**), software development (**Qt**) and then delved into **Deep Learning**. Concurrently, I progressed my coding skills using **C++** and **Python**.
 
 ## Publications
+### Reviewing:
+Jiangchang Xu, Jiannan Liu, **Dingzhong Zhang**, Zijie Zhou, Chenping Zhang, Xiaojun Chen*. (2021). A 3D Segmentation Network of Mandible from CT Scan with Combination of Multiple Convolutional Modules and Edge Supervision in Mandibular Reconstruction. Computers in Biology and Medicine.
+
+Yuwei Gu, **Dingzhong Zhang**, Baoxin Tao, Feng Wang, Xiaojun Chen*, Yiqun Wu*. (2021). A novel technique to quantify radiographic bone-to-implant contact of zygomatic implants based on three-dimensional image registration and segmentation. Clinical Implant Dentistry and Related Research.
+
 ### Revising:
 Jiangchang Xu, **Dingzhong Zhang**, Chunliang Wang, Huifang Zhou, Yinwei Li, and Xiaojun Chen*. (2021). Automatic Segmentation of Orbital Wall from CT Images Using a Fully Convolutional Network Based on Thin Wall Region Supervision. Medical Physics.
 

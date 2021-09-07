@@ -18,7 +18,7 @@ Proposed a coordinate-measurement solution using the *FaroArm*, a high-precision
 
 {% include image.html url="/images/hololens.jpg" caption="Framework of AR based Surgical Navigation System" width=650 align="center" %}
 
-Developed an AR based surgical navigation system for high-quality visualization and accurate navigation during the spine surgery. This includes the **calibration** between *HoloLens* and *Polaris* (a surgical tool tracking device), the **registration** between real and virtual models
+Developed an AR based surgical navigation system for high-quality visualization and accurate navigation during the spine surgery. This includes the **calibration** of *HoloLens* and *Polaris NDI* (a surgical tool tracking device), the **registration** between real and virtual models
 
 **Part A:**
 This part includes the surgical routes planning and unifying the coordinate systems of CT data, virtual/real models.
