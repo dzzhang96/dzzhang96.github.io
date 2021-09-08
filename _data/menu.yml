@@ -4,12 +4,12 @@
 - title: "Research"
   href: "/Research/"
   subcategories:
-    - subtitle: "Robotics"
-      subhref: "/Research/Robotics/"
+    - subtitle: "Surgical Navigation"
+      subhref: "/Research/AR-based Surgical Navigation/"
     - subtitle: "Medical Image Computation"
       subhref: "/Research/Medical Image Computation/"
-    - subtitle: "AR-based Surgical Navigation"
-      subhref: "/Research/AR-based Surgical Navigation/"
+    - subtitle: "Robotics"
+      subhref: "/Research/Robotics/"
 
 
 - title: "CV"
