@@ -18,10 +18,11 @@ Jiangchang Xu, **Dingzhong Zhang**, Chunliang Wang, Huifang Zhou, Yinwei Li, and
 ### Published:
 Jiangchang Xu, Jiannan Liu, **Dingzhong Zhang**, Zijie Zhou, Xiaoyi Jiang, Chenping Zhang, Xiaojun Chen*. (2021). Automatic Mandible Segmentation from CT Image Using 3D Fully Convolutional Neural Network Based on DenseASPP and Attention Gates. International Journal of Computer Assisted Radiology and Surgery.
 
-Afaque Memon, Dongyuan Li, Junlei Hu, Enpeng Wang, **Dingzhong Zhang**, Xiaojun Chen*. (2021). The Development of Computer‐aided Patient‐Specific Template Design Software for 3D printing in Cranio‐Maxillofacial Surgery. The International Journal of Medical Robotics and Computer Assisted Surgery. 17. 10.1002/rcs.2243. 
+Afaque Memon, Dongyuan Li, Junlei Hu, Enpeng Wang, **Dingzhong Zhang**, Xiaojun Chen*. (2021). The Development of Computer‐aided Patient‐Specific Template Design Software for 3D printing in Cranio‐Maxillofacial Surgery. The International Journal of Medical Robotics and Computer Assisted Surgery.
 
 &nbsp;
 
+## Projects
 {% include image.html url="/images/registration.gif" caption="Orbital Rim Registration Software V1.0" width=345 align="right" %}
 
 ### **[[Code](https://github.com/dzzhang96/Points-Registration-ICP)] Orbital Rim Registration Software V1.1**
