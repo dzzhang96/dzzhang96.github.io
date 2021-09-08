@@ -32,5 +32,5 @@ Automatic segmentation of vertebra using deep learning (a variation of U-net) an
 **Part D:**
 An UWP is deployed into HoloLens which receives only real-time data and does not get involved in the computation.
 
-**Screenshot of the navigation software under development**
+***Screenshot of the navigation software under development:***
 {% include image.html url="/images/software.jpg" caption="AR based Surgical Navigation Software" width=650 align="center" %}
