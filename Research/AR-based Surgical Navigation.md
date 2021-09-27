@@ -12,7 +12,7 @@ permalink: /Research/AR-based Surgical Navigation/
 *McGill University: Master Thesis Project, Supervisor: [Dr. Mark Driscoll](https://www.mcgill.ca/mecheng/people/staff/mark-driscoll), Co-supervisor: [Dr. Jorge Angeles](https://www.mcgill.ca/mecheng/people/staff/jorgeangeles), [Dr. Ahmed Aoude](https://www.mcgill.ca/orthopaedics/our-team/ahmed-aoude-md-frcsc)*
 
 {% include image.html url="/images/faroarm.jpg" caption="Accuracy Assessment of CT-based Spine Bone
-Reconstruction using *FaroArm*" width=650 align="center" %}
+Reconstruction using *FaroArm*" width=850 align="center" %}
 
 Proposed a coordinate-measurement solution using the *FaroArm*, a high-precision measuring robotic arm, to evaluate the accuracy of the virtual lumbar spine model reconstructed from CT images. A **landmark registration algorithm** was used for calibration. The error from the reconstruction procedures for the virtual model were quantified.
 
@@ -33,4 +33,4 @@ Automatic segmentation of vertebra using deep learning (variations of U-net) and
 The calibration of HoloLens. A calibration cube was 3d printed and the dual quaternion can serve as a quick calibration algorithm. An UWP is deployed into HoloLens which receives only real-time data and does not get involved in the computation.
 
 ***Screenshot of the navigation software under development:***
-{% include image.html url="/images/software.jpg" caption="AR based Surgical Navigation Software" width=650 align="center" %}
+{% include image.html url="/images/software.jpg" caption="AR based Surgical Navigation Software" width=850 align="center" %}
