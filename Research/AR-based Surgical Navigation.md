@@ -16,7 +16,7 @@ Reconstruction using *FaroArm*" width=650 align="center" %}
 
 Proposed a coordinate-measurement solution using the *FaroArm*, a high-precision measuring robotic arm, to evaluate the accuracy of the virtual lumbar spine model reconstructed from CT images. A **landmark registration algorithm** was used for calibration. The error from the reconstruction procedures for the virtual model were quantified.
 
-{% include image.html url="/images/hololens.jpg" caption="Framework of AR based Spine Surgical Navigation System" width=650 align="center" %}
+{% include image.html url="/images/hololens.jpg" caption="Framework of AR based Spine Surgical Navigation System" width=850 align="center" %}
 
 Developed an AR-based surgical navigation system for high-quality visualization and accurate navigation during the spine surgery. This includes the **calibration** of *HoloLens* and surgical instruments using *Polaris NDI* (a surgical tool tracking device), the **registration** between real and virtual models
 

@@ -1,4 +1,4 @@
-I"�<p>As to robotics, it is with strong enthusiasm that I have participated in many related activities since undergraduate study, especially those applications in biomechanics. I have extended my interests to various types of robots, including my own 3d-printed rehabilitation robotic arm, Rethink Baxter (a cobot), ABB industrial robots, UAV and AGV. As a result, I developed my abilities not only in mechanical design but also in controls and PCB designing as well.</p>
+I"<p>As to robotics, it is with strong enthusiasm that I have participated in many related activities during my undergraduate study. I have extended my interests to various types of robots, including my 3d-printed <strong>rehabilitation robotic arm</strong>, the <strong>Rethink Baxter</strong> (a cobot), <strong>ABB industrial robots</strong>, <strong>UAV</strong> and <strong>AGV</strong>. I developed my skills not only in controls mechanical design but also in <strong>controls</strong> and PCB designing as well.</p>
 
 <p> </p>
 
@@ -17,10 +17,10 @@
 
 <ul>
   <li>
-    <p>Utilized an ABB IRB6700 robotic arm to simulate physiological loading conditions and to perform kinematic (normal walking) test on a human knee-joint prosthesis.</p>
+    <p>Used an ABB IRB6700 robotic arm to simulate physiological loading conditions and to perform kinematic (normal walking) test on a human knee-joint prosthesis.</p>
   </li>
   <li>
-    <p>Planned robot path according to anterior-posterior translation, medial-lateral rotation, flexion-extension rotation of knee-joint in MATLAB Robotic Toolbox and programmed in RobotStudio.</p>
+    <p>Planned the robot path according to anterior-posterior translation, medial-lateral rotation, flexion-extension rotation of knee-joint in MATLAB Robotic Toolbox and programmed in RobotStudio.</p>
   </li>
 </ul>
 
@@ -33,11 +33,10 @@
 
 <ul>
   <li>
-    <p>Controlled and detected physiological loading by using a multidimensional force sensor, Beckhoff embedded PC, and secondary developed software based on TwinCat.</p>
+    <p>Controlled and detected the physiological loading by using a multidimensional force sensor, Beckhoff embedded PC, and secondary developed software based on TwinCat.</p>
   </li>
   <li>
-    <p>Designed new fixtures, including a flange, an adapter flange, trapezoidal
-grooves, and two barrels for PMMA solidification for linking knee-joint prosthesis with robotic arm.</p>
+    <p>Designed new fixtures, including a flange, an adapter flange, trapezoidal grooves, and two barrels for PMMA solidification for linking knee-joint prosthesis with robotic arm.</p>
   </li>
   <li>
     <p>Established a dynamic optical measuring system to observe knee-joint kinematics in gait after collecting data from ARAMIS, GOM by sticking markers on the surface of prosthesis.</p>
@@ -61,7 +60,7 @@ grooves, and two barrels for PMMA solidification for linking knee-joint prosthes
 
 <ul>
   <li>
-    <p>Designed a prototype of four DOF robotic arm, which can predict patient’s arm movement and help do rehabilitation exercises.</p>
+    <p>Designed a prototype of a four DOF robotic arm, which can predict patient’s arm movement and help do rehabilitation exercises.</p>
   </li>
   <li>
     <p>Developed an integrated system of a robotic arm, a multiple sensor, a windows forms application programmed in c#, a servos’ control system in Arduino where messages are detected and exchanged through the serial communication ports.</p>
