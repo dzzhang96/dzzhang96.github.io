@@ -33,4 +33,11 @@ Automatic segmentation of vertebra using deep learning (variations of U-net) and
 The calibration of HoloLens. A calibration cube was 3d printed and the dual quaternion can serve as a quick calibration algorithm. An UWP is deployed into HoloLens which receives only real-time data and does not get involved in the computation.
 
 ***Screenshot of the navigation software under development:***
-{% include image.html url="/images/software.jpg" caption="AR based Surgical Navigation Software" width=850 align="center" %}
+{% include image.html url="/images/software.jpg" caption="AR-based Surgical Navigation Software" width=850 align="center" %}
+
+### **Automatic Surgical Routes Planning for Reverse Total Shoulder Arthroplasty**
+
+12/2020-08/2021
+
+*Shanghai Jiao Tong University: Master Project, Supervisor: Dr. Xiaojun Chen*
+{% include image.html url="/images/rtsa.png" caption="RTSA Surgical Navigation Software" width=850 align="center" %}
