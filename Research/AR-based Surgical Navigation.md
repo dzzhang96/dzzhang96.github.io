@@ -16,21 +16,21 @@ Reconstruction using *FaroArm*" width=650 align="center" %}
 
 Proposed a coordinate-measurement solution using the *FaroArm*, a high-precision measuring robotic arm, to evaluate the accuracy of the virtual lumbar spine model reconstructed from CT images. A **landmark registration algorithm** was used for calibration. The error from the reconstruction procedures for the virtual model were quantified.
 
-{% include image.html url="/images/hololens.jpg" caption="Framework of AR based Surgical Navigation System" width=650 align="center" %}
+{% include image.html url="/images/hololens.jpg" caption="Framework of AR based Spine Surgical Navigation System" width=650 align="center" %}
 
-Developed an AR based surgical navigation system for high-quality visualization and accurate navigation during the spine surgery. This includes the **calibration** of *HoloLens* and *Polaris NDI* (a surgical tool tracking device), the **registration** between real and virtual models
+Developed an AR-based surgical navigation system for high-quality visualization and accurate navigation during the spine surgery. This includes the **calibration** of *HoloLens* and surgical instruments using *Polaris NDI* (a surgical tool tracking device), the **registration** between real and virtual models
 
-**Part A:**
-This part includes the surgical routes planning and unifying the coordinate systems of CT data, virtual/real models.
+**Part 1:**
+This part is the registration procedure linking the coordinate systems of virtual spine in CT image data with real patient. Landmark registration can be used if corresponding fiducial markers are selected. Surface registration is another approach by sliding the probe on the surface of bone to collect a seires of points. Others registration methods depend on X-ray/DRR registration using C-arm or O-arm.
 
-**Part B:**
-An interfaced software includes the function of calibration of Polaris NDI and shows the real-time surgical routes on CT images. The probe and passive 4-marker rigid body on the spine are used for Polaris NDI to track the position and orientation of the spine and surgical tools. 
+**Part 2:**
+The calibration of the surgical instruments. We use the tip of the probe to touch the tip of the drill and keep their axis aligned with each other.
 
-**Part C:**
-Automatic segmentation of vertebra using deep learning (a variation of U-net) and then 3D reconstruction.
+**Part 3:**
+Automatic segmentation of vertebra using deep learning (variations of U-net) and then 3D reconstruction.
 
-**Part D:**
-An UWP is deployed into HoloLens which receives only real-time data and does not get involved in the computation.
+**Part 4:**
+The calibration of HoloLens. A calibration cube was 3d printed and the dual quaternion can serve as a quick calibration algorithm. An UWP is deployed into HoloLens which receives only real-time data and does not get involved in the computation.
 
 ***Screenshot of the navigation software under development:***
 {% include image.html url="/images/software.jpg" caption="AR based Surgical Navigation Software" width=650 align="center" %}
