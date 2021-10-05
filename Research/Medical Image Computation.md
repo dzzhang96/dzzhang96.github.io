@@ -7,15 +7,15 @@ permalink: /Research/Medical Image Computation/
 I gained most of my experience in medical image processing at Shanghai Jiaotong University as a graduate student from year 2019. I acquired skills of **OpenCV**, image visualization (**VTK**), medical image processing (**ITK**), software development (**Qt**) and then delved into **Deep Learning**. Concurrently, I progressed my coding skills using **C++** and **Python**.
 
 ## Publications
-### Reviewing:
-Jiangchang Xu, Jiannan Liu, **Dingzhong Zhang**, Zijie Zhou, Chenping Zhang, Xiaojun Chen*. (2021). A 3D Segmentation Network of Mandible from CT Scan with Combination of Multiple Convolutional Modules and Edge Supervision in Mandibular Reconstruction. Computers in Biology and Medicine.
-
-Yuwei Gu, **Dingzhong Zhang**, Baoxin Tao, Feng Wang, Xiaojun Chen*, Yiqun Wu*. (2021). A novel technique to quantify radiographic bone-to-implant contact of zygomatic implants based on three-dimensional image registration and segmentation. The International Journal of Oral and Maxillofacial Implants.
-
 ### Revising:
 Jiangchang Xu, **Dingzhong Zhang**, Chunliang Wang, Huifang Zhou, Yinwei Li, and Xiaojun Chen*. (2021). Automatic Segmentation of Orbital Wall from CT Images Using a Fully Convolutional Network Based on Thin Wall Region Supervision. Medical Physics.
 
+### Reviewing:
+Yuwei Gu, **Dingzhong Zhang**, Baoxin Tao, Feng Wang, Xiaojun Chen*, Yiqun Wu*. (2021). A novel technique to quantify radiographic bone-to-implant contact of zygomatic implants based on three-dimensional image registration and segmentation. The International Journal of Oral and Maxillofacial Implants.
+
 ### Published:
+Jiangchang Xu, Jiannan Liu, **Dingzhong Zhang**, Zijie Zhou, Chenping Zhang, Xiaojun Chen*. (2021). A 3D Segmentation Network of Mandible from CT Scan with Combination of Multiple Convolutional Modules and Edge Supervision in Mandibular Reconstruction. Computers in Biology and Medicine.
+
 Jiangchang Xu, Jiannan Liu, **Dingzhong Zhang**, Zijie Zhou, Xiaoyi Jiang, Chenping Zhang, Xiaojun Chen*. (2021). Automatic Mandible Segmentation from CT Image Using 3D Fully Convolutional Neural Network Based on DenseASPP and Attention Gates. International Journal of Computer Assisted Radiology and Surgery.
 
 Afaque Memon, Dongyuan Li, Junlei Hu, Enpeng Wang, **Dingzhong Zhang**, Xiaojun Chen*. (2021). The Development of Computer‐aided Patient‐Specific Template Design Software for 3D printing in Cranio‐Maxillofacial Surgery. The International Journal of Medical Robotics and Computer Assisted Surgery.
