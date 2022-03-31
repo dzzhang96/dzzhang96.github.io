@@ -13,9 +13,9 @@ Jiangchang Xu, **Dingzhong Zhang**, Chunliang Wang, Huifang Zhou, Yinwei Li, and
 ### Reviewing:
 Yuwei Gu, **Dingzhong Zhang**, Baoxin Tao, Feng Wang, Xiaojun Chen*, Yiqun Wu*. (2021). A novel technique to quantify radiographic bone-to-implant contact of zygomatic implants based on three-dimensional image registration and segmentation. Dentomaxillofacial Radiology.
 
+### Published:
 Haitao Li<sup>#</sup>, Jiangchang Xu<sup>#</sup>, **Dingzhong Zhang**, Yaohua He, Xiaojun Chen*. (2022). An Automatic Surgical Planning Combining Bone Density Assessment and Path Integral in Cone Area for Reverse Shoulder Arthroplasty. International Journal of Computer Assisted Radiology and Surgery.
 
-### Published:
 Jiangchang Xu<sup>#</sup>, Jiannan Liu<sup>#</sup>, **Dingzhong Zhang**, Zijie Zhou, Chenping Zhang, Xiaojun Chen*. (2021). A 3D Segmentation Network of Mandible from CT Scan with Combination of Multiple Convolutional Modules and Edge Supervision in Mandibular Reconstruction. Computers in Biology and Medicine.
 
 Jiangchang Xu<sup>#</sup>, Jiannan Liu<sup>#</sup>, **Dingzhong Zhang**, Zijie Zhou, Xiaoyi Jiang, Chenping Zhang, Xiaojun Chen*. (2021). Automatic Mandible Segmentation from CT Image Using 3D Fully Convolutional Neural Network Based on DenseASPP and Attention Gates. International Journal of Computer Assisted Radiology and Surgery.
