@@ -8,10 +8,10 @@ I gained most of my experience in medical image processing at Shanghai Jiaotong 
 
 ## Publications
 ### Reviewing:
-Jiangchang Xu, **Dingzhong Zhang**, Chunliang Wang, Huifang Zhou, Yinwei Li, and Xiaojun Chen*. (2022). Automatic Segmentation of Orbital Wall from CT Images Using a Deep Learning Network Based on Thin Wall Region Supervision. Computer Methods and Programs in Biomedicine.
+Jiangchang Xu, **Dingzhong Zhang**, Chunliang Wang, Huifang Zhou, Yinwei Li, and Xiaojun Chen*. (2022). Automatic Segmentation of Orbital Wall from CT Images Via a Thin Wall Region Supervision-Based Multi-scale Feature Search Network. IJCARS.
 
 ### Published:
-Yuwei Gu, **Dingzhong Zhang**, Baoxin Tao, Feng Wang, Xiaojun Chen*, Yiqun Wu*. (2022). A novel technique to quantify radiographic bone-to-implant contact of zygomatic implants based on three-dimensional image registration and segmentation. Dentomaxillofacial Radiology.
+Yuwei Gu, **Dingzhong Zhang**, Baoxin Tao, Feng Wang, Xiaojun Chen, Yiqun Wu*. (2022). A novel technique to quantify radiographic bone-to-implant contact of zygomatic implants based on three-dimensional image registration and segmentation. Dentomaxillofacial Radiology.
 
 **Dingzhong Zhang**, Ahmed Aoude, Mark Driscoll*. (2022). Development and Model Form Assessment of an Automatic Subject-specific Vertebra Reconstruction Method. Computers in Biology and Medicine.
 
