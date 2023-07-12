@@ -7,10 +7,9 @@ permalink: /Research/Medical Image Computation/
 I gained most of my experience in medical image processing at Shanghai Jiaotong University as a graduate student from year 2019. I acquired skills of **OpenCV**, image visualization (**VTK**), medical image processing (**ITK**), software development (**Qt**) and then delved into **Deep Learning**. Concurrently, I progressed my coding skills using **C++** and **Python**.
 
 ## Publications
-### Reviewing:
+### Published:
 Jiangchang Xu, **Dingzhong Zhang**, Chunliang Wang, Huifang Zhou, Yinwei Li, and Xiaojun Chen*. (2022). Automatic Segmentation of Orbital Wall from CT Images Via a Thin Wall Region Supervision-Based Multi-scale Feature Search Network. International Journal of Computer Assisted Radiology and Surgery [[Link](https://doi.org/10.1007/s11548-023-02924-z)]; CARS 2023 [[Poster Presentation](https://www.cars-int.org/cars-2023/scientific-program/program/)].
 
-### Published:
 Yuwei Gu, **Dingzhong Zhang**, Baoxin Tao, Feng Wang, Xiaojun Chen, Yiqun Wu*. (2022). A novel technique to quantify radiographic bone-to-implant contact of zygomatic implants based on three-dimensional image registration and segmentation. Dentomaxillofacial Radiology. [[Link](https://doi.org/10.1259/dmfr.20220210)]
 
 **Dingzhong Zhang**, Ahmed Aoude, Mark Driscoll*. (2022). Development and Model Form Assessment of an Automatic Subject-specific Vertebra Reconstruction Method. Computers in Biology and Medicine. [[Link](https://doi.org/10.1016/j.compbiomed.2022.106158)]
