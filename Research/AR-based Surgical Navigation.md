@@ -5,9 +5,9 @@ permalink: /Research/AR-based Surgical Navigation/
 ---
 
 
-### **Key Techniques of An AR-based Spine Surgical Navigation System**
+### **Key Techniques of an AR-based Spine Surgical Navigation System**
 
-09/2020-present
+10/2020-02/2022
 
 *McGill University: Master Thesis Project, Supervisor: [Dr. Mark Driscoll](https://www.mcgill.ca/mecheng/people/staff/mark-driscoll), Co-supervisor: [Dr. Jorge Angeles](https://www.mcgill.ca/mecheng/people/staff/jorgeangeles), [Dr. Ahmed Aoude](https://www.mcgill.ca/orthopaedics/our-team/ahmed-aoude-md-frcsc)*
 
