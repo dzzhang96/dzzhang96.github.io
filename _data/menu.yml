@@ -11,6 +11,8 @@
     - subtitle: "Robotics"
       subhref: "/Research/Robotics/"
 
+- title: "Publication"
+  href: "/publication/"
 
 - title: "CV"
   href: "/cv/"
