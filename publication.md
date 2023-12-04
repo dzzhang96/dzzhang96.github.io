@@ -4,8 +4,6 @@ title: Publication
 permalink: /publication/
 ---
 
-### Publications
-
 **Dingzhong Zhang**, Lauren Friend, Babak Matinfar, Siobhan Carroll, Samaan Rafeq, Matthew Krever*. (2023). Achievable Distance to Nodule Measurement in Real-world Robotic-assisted Bronchoscopy Data. CHEST 2023 [[Poster Presentation](http://dx.doi.org/10.1016/j.chest.2023.07.2686)].
 
 Jiangchang Xu, **Dingzhong Zhang**, Chunliang Wang, Huifang Zhou, Yinwei Li, and Xiaojun Chen*. (2022). Automatic Segmentation of Orbital Wall from CT Images Via a Thin Wall Region Supervision-Based Multi-scale Feature Search Network. International Journal of Computer Assisted Radiology and Surgery [[Link](https://doi.org/10.1007/s11548-023-02924-z)]; CARS 2023 [[Poster Presentation](https://www.cars-int.org/cars-2023/scientific-program/program/)].
