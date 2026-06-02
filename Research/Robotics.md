@@ -4,7 +4,7 @@ title: Robotics
 permalink: /Research/Robotics/
 ---
 
-As to robotics, it is with strong enthusiasm that I have participated in many related activities during my undergraduate study. I have extended my interests to various types of robots, including my 3d-printed **rehabilitation robotic arm**, the **Rethink Baxter** (a cobot), **ABB industrial robots**, **UAV** and **AGV**. I developed my skills not only in controls mechanical design but also in **controls** and PCB designing as well. 
+My interest in **robotics** originated during my undergraduate studies, where I actively participated in a wide range of robotics projects and competitions. My experience spans diverse robotic platforms, including a self-designed and 3D-printed **rehabilitation robotic arm**, the **Rethink Baxter** collaborative robot, **ABB industrial robots**, **unmanned aerial vehicles (UAVs)**, and **automated guided vehicles (AGVs)**. Through these projects, I developed expertise in mechanical design, control systems, and PCB design, while gaining hands-on experience in the integration of hardware and software for robotic applications.
 
 &nbsp;
 

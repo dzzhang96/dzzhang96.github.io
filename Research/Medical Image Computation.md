@@ -4,7 +4,7 @@ title: Medical Image Computation
 permalink: /Research/Medical Image Computation/
 ---
 
-I gained most of my experience in medical image processing at Shanghai Jiaotong University as a graduate student from year 2019. I acquired skills of **OpenCV**, image visualization (**VTK**), medical image processing (**ITK**), software development (**Qt**) and then delved into **Deep Learning**. Concurrently, I progressed my coding skills using **C++** and **Python**.
+I gained extensive experience in **medical image processing** during my graduate studies at **Shanghai Jiao Tong University**, beginning in 2019. Throughout this period, I developed strong expertise in **OpenCV**, medical image processing with **ITK**, visualization using **VTK**, and software development with **Qt**. Building upon these foundations, I further expanded my skill set into **Deep Learning** for medical image analysis. Concurrently, I strengthened my programming proficiency in both **C++** and **Python**, which have become my primary development languages.
 
 &nbsp;
 
@@ -25,7 +25,7 @@ I gained most of my experience in medical image processing at Shanghai Jiaotong 
 
 You can find details [here](https://github.com/dzzhang96/Points-Registration-ICP).
 
-### **[[Code](https://github.com/dzzhang96/tf-predict-cpp)] Medical Image Segmentation using Tensorflow C++ API**
+### **[[Code](https://github.com/dzzhang96/tf-predict-cpp)] Bone Graft Segmentation in Maxillary Sinus using Tensorflow C++ API**
 
 09/2019-11/2019
 
@@ -33,11 +33,9 @@ You can find details [here](https://github.com/dzzhang96/Points-Registration-ICP
 
 *Master Project, Supervisor: Dr. Xiaojun Chen*
 
-- Shortened calculation time for medical image computation software by integrating deep learning.
-
-- Compiled the Tensorflow C++ library and converted image segmentation programs from Python to C++.
-
-- Developed automatic labeling algorithms based on U-net/V-net to segment mandible and bone graft in maxillary sinus.
+- Reduced computation time of a medical image computation software by 80% through integration of DL models.
+- Compiled the TensorFlow C++ library and translated the segmentation pipelines from Python to C++ for deployment and performance optimization.
+- Developed semi-automatic labelling algorithms to segment the bone graft from maxillary sinus for training.
 
 You can find the code [here](https://github.com/dzzhang96/tf-predict-cpp).
 

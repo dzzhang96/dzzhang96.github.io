@@ -19,3 +19,11 @@ Jiangchang Xu<sup>#</sup>, Jiannan Liu<sup>#</sup>, **Dingzhong Zhang**, Zijie Z
 Jiangchang Xu<sup>#</sup>, Jiannan Liu<sup>#</sup>, **Dingzhong Zhang**, Zijie Zhou, Xiaoyi Jiang, Chenping Zhang, Xiaojun Chen*. (2021). Automatic Mandible Segmentation from CT Image Using 3D Fully Convolutional Neural Network Based on DenseASPP and Attention Gates. International Journal of Computer Assisted Radiology and Surgery. [[Link](https://doi.org/10.1007/s11548-021-02447-5)]
 
 Afaque Memon, Dongyuan Li, Junlei Hu, Enpeng Wang, **Dingzhong Zhang**, Xiaojun Chen*. (2021). The Development of Computer‐aided Patient‐Specific Template Design Software for 3D printing in Cranio‐Maxillofacial Surgery. The International Journal of Medical Robotics and Computer Assisted Surgery. [[Link](https://doi.org/10.1002/rcs.2243)]
+
+
+#### Patents
+Nodule segmentation and reconstruction via machine learning [[Link](https://patents.google.com/patent/US20260017799A1/)]
+WO US US20260017799A1 Dingzhong Zhang Auris Health, Inc.
+
+Pose estimation using machine learning [[Link](https://patents.google.com/patent/US20250308057A1/)]
+WO US US20250308057A1 Dingzhong Zhang Auris Health, Inc.
