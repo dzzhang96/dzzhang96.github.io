@@ -14,6 +14,10 @@ instagram_username: dzzhang96
 linkedin_username: dingzhong-zhang-763604103
 googlescholar_username: yZc5uicAAAAJ
 
+description: > # this means to ignore newlines until "baseurl:"
+  If you are interested in my experience, 
+  please feel free to contact me.
+
 # Build settings
 markdown: kramdown
 
